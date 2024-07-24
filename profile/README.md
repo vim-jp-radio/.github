@@ -27,4 +27,4 @@ vim-jpはプログラミングから子育てに至るまで無数のチャン�
 ## その他
 
 - X https://x.com/vimjpradio
-- SUZURI（公式グッズ販売） https://suzuri.jp/vim-jp-radio
+- SUZURI（公式グッズ販売） https://vim-jp-radio.com/suzuri
